@@ -7,7 +7,7 @@
 body {
     background-color: rgb(7,61,63);
     color: rgb(255,255,255);
-    font-family: '3270', Arial, sans-serif;
+    font-family: "Open Sans", Arial, sans-serif;
     text-align: center;
 }
 
@@ -18,10 +18,11 @@ body {
 }
 
 header {
-	
+    font-family: '3270', Arial, sans-serif;
 }
 
 footer {
+    font-family: "Open Sans", Arial, sans-serif;
 	font-style: italic;
 	font-size: 90%;
 }
