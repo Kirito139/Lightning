@@ -11,8 +11,8 @@ void setup() {
 void draw() {
   // Draw a semi-transparent black rectangle over the canvas to fade previous lines
   noStroke();
-  fill(0, 0, 0, 5);  // The fourth parameter is the alpha value (0 = transparent, 255 = fully opaque)
-  rect(0, 0, width, height);  // Draw the rectangle over the entire canvas
+  // fill(0, 0, 0, 5);  // The fourth parameter is the alpha value (0 = transparent, 255 = fully opaque)
+  // rect(0, 0, width, height);  // Draw the rectangle over the entire canvas
   // new random color
   stroke((int)(Math.random()*256), (int)(Math.random()*256), (int)(Math.random()*256));
   // new random end point
