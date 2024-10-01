@@ -4,12 +4,6 @@
     font-weight: normal;
     font-style: normal;
 }
-@font-face {
-    font-family: '3270';
-    src: url('https://kirito139.github.io/Stash/fonts/3270NerdFont-Bold.ttf') format('truetype');
-    font-weight: bold;
-    font-style: normal;
-}
 
 body {
     background-color: rgb(7,61,63);
